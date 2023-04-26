@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -23,7 +23,7 @@ After graduating with a Bachelor of Applied Science in Geological Engineering de
 Aside from coding, I enjoy playing sports during my free time. Growing up in a big family, I particularly enjoy team sports including basketball, football and volleyball during my free time. 
 
 If you are interested in having a chat, please don't hesitate to contact me through LinkedIn or my personal email at david.cabuay@gmail.com. I would love to connect with you!
-- :mailbox:How to reach me: david.cabuay@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/david-cabuay-48a83172/))
+
 
 ---
 
