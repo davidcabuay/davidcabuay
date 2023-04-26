@@ -15,7 +15,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a geotechnical engineer turned web-developer. I've always been drawn to technology and the challenge of problem-solving, which inspired me to explore the world of coding and web development!
 
 After graduating with a Bachelor of Applied Science in Geological Engineering degree and working as a geotechnical engineer for 5 years, I decided to step back and invest in myself by pursuing my interest in coding. I was accepted in App Academy, a top software engineering program with an acceptance rate of less than 3%. During this time, I was able to expand my skillset to include programming languages and frameworks such as React, Ruby on Rails, Javascript, PostgreSQL, MongoDB, and many more.
