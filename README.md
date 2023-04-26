@@ -48,7 +48,7 @@ If you are interested in having a chat, please don't hesitate to contact me thro
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcabuay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcabuay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **davidcabuay/davidcabuay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
